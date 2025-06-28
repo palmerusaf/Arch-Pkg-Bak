@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-pacman -Qq >~/.arch-package-list/pkglist.txt
+pacman -Qqe >~/.arch-package-list/pkglist.txt
